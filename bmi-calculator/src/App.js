@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import BmiDashboard from './components/BmiDashboard';
 
 function App() {

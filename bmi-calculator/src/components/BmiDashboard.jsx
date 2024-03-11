@@ -37,7 +37,7 @@ export default function BmiDashboard() {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <h2>BMI calculator</h2>
+        <h2 className="">BMI calculator</h2>
         <div>
           <label>Height (cm) </label>
           <input
